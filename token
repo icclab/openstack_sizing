@@ -1,0 +1,5 @@
+#!/bin/env bash
+export OS_USERNAME="your_openstack_username"
+export OS_TENANT_NAME="your_openstack_tenant_name"
+export OS_PASSWORD="your_openstack_password"
+export OS_AUTH_URL="http://<your_openstack_url>:35357/v2.0"
